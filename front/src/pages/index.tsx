@@ -1,0 +1,6 @@
+export {HomePublic} from './home/HomePublic'
+export {UserRegister} from './users/userRegister'
+export {Login} from './login/Login'
+export {HomePrivate} from './home/HomePrivate'
+export {UserLayout} from './users/UserLayout'
+export {UserUpdate} from './users/UserUpdate'
